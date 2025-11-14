@@ -13,7 +13,7 @@ See resources at: [collinberke.com/data-marketing-media-resources]()
   - `Tags`: the category of the resource (e.g., the programming language, or the topic area the resource falls under).
   Multiple categories can be applied to a resource.
   Use a `;` (semi-colon) to separate categories.
-  Current categories include `Advertising`, `AI`, `Analytics`, `Audio`, `Digital`, `Film`, `Gaming`, `Industry`, `Journalism`, `Measurement`, `Marketing`, `News`, `Podcasts`, `Public Media`, `Radio`, `Social Media`, `Streaming`, `Tech`, and `Television`.
+  Current categories include `Advertising`, `AI`, `Analytics`, `Audio`, `Digital`, `Education`, `Film`, `Gaming`, `Industry`, `Journalism`, `Measurement`, `Marketing`, `News`, `Podcasts`, `Public Media`, `Radio`, `Social Media`, `Streaming`, `Tech`, and `Television`.
   New categories are welcome.
   Please make note of why a new category should be added in the description section of your PR.
 
