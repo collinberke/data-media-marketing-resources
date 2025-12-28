@@ -1,6 +1,6 @@
 # Media and Marketing Research Data Resources
 
-See resources at: [collinberke.com/data-marketing-media-resources]()
+See resources at: [collinberke.com/data-media-marketing-resources](https://www.collinberke.com/data-media-marketing-resources)
 
 ## Adding or editing a resource
 
@@ -10,7 +10,7 @@ See resources at: [collinberke.com/data-marketing-media-resources]()
   If a resource fits into multiple categories, please choose the one that fits best.
   - `Name`: the name of the resource (e.g., What's the title? Who's blog is it? What's the name of the book?)
   - `Link`: The full URL to the resource.
-  - `Tags`: the category of the resource (e.g., the programming language, or the topic area the resource falls under).
+  - `Tags`: the category of the resource (e.g., the topic area the resource falls under).
   Multiple categories can be applied to a resource.
   Use a `;` (semi-colon) to separate categories.
   Current categories include `Advertising`, `AI`, `Analytics`, `Audio`, `Digital`, `Education`, `Film`, `Gaming`, `Industry`, `Journalism`, `Measurement`, `Marketing`, `News`, `Podcasts`, `Public Media`, `Radio`, `Social Media`, `Streaming`, `Tech`, and `Television`.
